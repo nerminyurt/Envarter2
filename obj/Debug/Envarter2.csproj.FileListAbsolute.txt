@@ -1,0 +1,10 @@
+C:\Users\nermi\source\repos\Envarter2\Envarter2\bin\Debug\Envarter2.exe.config
+C:\Users\nermi\source\repos\Envarter2\Envarter2\bin\Debug\Envarter2.exe
+C:\Users\nermi\source\repos\Envarter2\Envarter2\bin\Debug\Envarter2.pdb
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.csprojAssemblyReference.cache
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.Properties.Resources.resources
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.csproj.GenerateResource.cache
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.csproj.CoreCompileInputs.cache
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.exe
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.pdb
+C:\Users\nermi\source\repos\Envarter2\Envarter2\obj\Debug\Envarter2.MainForm.resources
